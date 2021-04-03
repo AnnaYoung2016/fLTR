@@ -1,7 +1,7 @@
 # fLTR
-Including five feature lists, body, anchor, title, url and whole document, used for training. Using LETOR 4.0 features. 
+Including five feature list files: body, anchor, title, url and whole document. Using LETOR 4.0 features. 
 
-Exmaple coding source: RankNet algorithm, using title features, performed on MQ2007 dataset. Including train，test and evaluation.
+Exmaple codes performed on MQ2007 dataset, using title features and RankNet algorithm. Including the train，test and evaluation file.
 
 Source code for data processing.
 
